@@ -7,7 +7,7 @@ var blogs = {
     "tags": ["stripe", "ruby", "tests", "docker", "payments", "tech"]
   },
   "20141217-airbnb": {
-    "companyName" "Airbnb",
+    "companyName": "Airbnb",
     "blogTitle": "Payments at Airbnb",
     "date": "2014-12-17",
     "blogUrl": "http://nerds.airbnb.com/payments-airbnb/",
